@@ -2,7 +2,7 @@
 	"song": {
 		"sectionLengths": [],
 		"player1": "bf",
-		"player2": "hellbob",
+		"player2": "pico",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -15604,8 +15604,8 @@
 			}
 		],
 		"player3": "gf",
-		"song": "run",
-		"stage": "hell",
+		"song": "fresh",
+		"stage": "stage",
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": true,
